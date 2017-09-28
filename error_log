@@ -1,0 +1,17 @@
+[10-Aug-2017 12:16:41 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/qgvhgvhh/public_html/wp-content/themes/salient-child/functions.php on line 24
+[11-Aug-2017 00:28:51 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home/qgvhgvhh/public_html/wp-content/plugins/rss-post-importer/app/classes/helpers/class-rss-pi-featured-image.php on line 125
+[11-Aug-2017 00:28:51 UTC] PHP Warning:  filesize() expects parameter 1 to be a valid path, object given in /home/qgvhgvhh/public_html/wp-admin/includes/file.php on line 323
+[11-Aug-2017 00:28:51 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home/qgvhgvhh/public_html/wp-content/plugins/rss-post-importer/app/classes/helpers/class-rss-pi-featured-image.php on line 125
+[11-Aug-2017 00:28:51 UTC] PHP Warning:  filesize() expects parameter 1 to be a valid path, object given in /home/qgvhgvhh/public_html/wp-admin/includes/file.php on line 323
+[11-Aug-2017 00:28:51 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home/qgvhgvhh/public_html/wp-content/plugins/rss-post-importer/app/classes/helpers/class-rss-pi-featured-image.php on line 125
+[11-Aug-2017 00:28:51 UTC] PHP Warning:  filesize() expects parameter 1 to be a valid path, object given in /home/qgvhgvhh/public_html/wp-admin/includes/file.php on line 323
+[11-Aug-2017 00:28:51 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home/qgvhgvhh/public_html/wp-content/plugins/rss-post-importer/app/classes/helpers/class-rss-pi-featured-image.php on line 125
+[11-Aug-2017 00:28:51 UTC] PHP Warning:  filesize() expects parameter 1 to be a valid path, object given in /home/qgvhgvhh/public_html/wp-admin/includes/file.php on line 323
+[11-Aug-2017 00:28:51 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home/qgvhgvhh/public_html/wp-content/plugins/rss-post-importer/app/classes/helpers/class-rss-pi-featured-image.php on line 125
+[11-Aug-2017 00:28:51 UTC] PHP Warning:  filesize() expects parameter 1 to be a valid path, object given in /home/qgvhgvhh/public_html/wp-admin/includes/file.php on line 323
+[18-Sep-2017 13:14:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=840027 in /home/qgvhgvhh/public_html/wp-includes/wp-db.php on line 1877
+[18-Sep-2017 13:19:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=839980 in /home/qgvhgvhh/public_html/wp-includes/wp-db.php on line 1877
+[18-Sep-2017 13:24:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=837680 in /home/qgvhgvhh/public_html/wp-includes/wp-db.php on line 1877
+[18-Sep-2017 13:29:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=837912 in /home/qgvhgvhh/public_html/wp-includes/wp-db.php on line 1877
+[18-Sep-2017 13:33:52 UTC] PHP Warning:  Error while sending QUERY packet. PID=837953 in /home/qgvhgvhh/public_html/wp-includes/wp-db.php on line 1877
+[18-Sep-2017 13:33:53 UTC] PHP Warning:  Error while sending QUERY packet. PID=839862 in /home/qgvhgvhh/public_html/wp-includes/wp-db.php on line 1877
