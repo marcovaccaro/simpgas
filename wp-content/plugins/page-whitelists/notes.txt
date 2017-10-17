@@ -1,0 +1,5 @@
+TO DO
+=====
+
+- add option to automatically inherit parent whitelist when page is set as a child
+- add whitelist settings to Quick Edit form

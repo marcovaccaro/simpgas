@@ -1,0 +1,65 @@
+What to test on Page Whitelists
+===============================
+
+
+Manual - as ADMIN
+------------------
+* test menus
+- is 'Page Whitelists' under Settings?
+- is 'Manage Whitelists' under Users?
+
+* test settings - default strictness
+- turn on/off default strictness
+- open new whitelist and see if the checkbox selects properly
+
+* create whitelist
+- with new pages enabled
+- without new pages enabled
+- role checked
+- user checked
+
+* open and cancel whitelist editing
+
+* edit whitelist
+- add user
+- remove user
+- add role
+- remove role
+- add page
+- remove page
+
+* delete whitelist
+
+* add user to whitelist from User Editor
+* visual check: page whitelist column in User Table
+
+* add page to whitelist from Page Editor
+
+Manual - as USER
+----------------
+
+* test what user sees
+- check page listing
+- is it filtered?
+- are the numbers correct?
+
+* create new page as a user assigned to a whitelist...
+- ...that allows it
+- ...that doesn't allow it
+
+* test settings - plugin filtering
+- turn on/off plugin filtering
+- test plugin listing filtering (e.g. something like CMS Tree Page view)
+
+
+
+
+Automatic
+---------
+[TODO] Write this!
+[TODO] Update PHPUnit tests!
+
+thoughts:
+* can PHPUnit do output testing? i.e. sth like Laravel's see()?
+* test class methods
+* test AJAX output
